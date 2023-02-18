@@ -5,4 +5,5 @@
 Запуск программы
 
 npm install
+
 npm run dev
